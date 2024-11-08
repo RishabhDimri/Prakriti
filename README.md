@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 >A mobile news application built on <a href="https://developer.android.com/studio/" target="_blank">Android Studio</a>.</h4>
+<h4 >A mobile application built on <a href="https://developer.android.com/studio/" target="_blank">Android Studio</a>.</h4>
 
 
 <p>
