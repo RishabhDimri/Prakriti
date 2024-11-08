@@ -1,9 +1,8 @@
 
 <h1>
   <br>
-  <img width="572" alt="image" src="(https://github.com/user-attachments/assets/e280fc30-65a4-420d-a89e-c7105a045ec2)">
-  <br>
-  Prakriti
+  <img src="https://github.com/RishabhDimri/Prakriti/blob/master/app/src/main/res/drawable/WhatsApp%20Image%202024-11-08%20at%2009%2C22%2C29_71bc95de-photoaidcom-cropped.jpg" alt="image" width="100">
+  <br>Prakriti
   <br>
 </h1>
 
