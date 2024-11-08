@@ -7,9 +7,6 @@
 
 <h4 >A mobile news application built on <a href="https://developer.android.com/studio/" target="_blank">Android Studio</a>.</h4>
 
-  [![Code size](https://img.shields.io/github/languages/code-size/ThakurSaAbhay/Prakriti?style=for-the-badge)](https://github.com/ThakurSaAbhay/Buzznews)
-  [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/Prakriti?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/Buzznews)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/Prakriti?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
 
 <p>
   <a href="#key-features">Key Features</a> •
@@ -42,7 +39,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [A
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ThakurSaAbhay/Prakriti
+$ git clone https://github.com/RishabhDimri/Prakriti
 
 ```
 and open the cloned folder with Android Studio.
@@ -66,8 +63,8 @@ As the credits of the users will increase it will open up a level for them such 
 
 ## You may also like...
 
-- [Humidity Temperature Sensor](https://github.com/ThakurSaAbhay/Humidity-Temperature-Sensor) - An IOT based temperature and humidity updater.
-- [EdVerse](https://github.com/ThakurSaAbhay/Nerdo) - Best UI made by me associated with edtech(AR/VR).
+- [Humidity Temperature Sensor](https://github.com/RishabhDimri/Check-Weather) - An API based weather application.
+- [EdVerse](https://github.com/RishabhDimri/PICO) - Photo editing application.
 
 
 
