@@ -29,9 +29,9 @@
 
 ## Project Snapshots
 
-<img width="572" alt="image" src="https://github.com/ThakurSaAbhay/Prakriti/assets/92168403/49403d3f-e026-4b5b-806e-ada8047afb45">
+<img width="572" alt="image" src="https://github.com/RishabhDimri/Prakriti/assets/92168403/49403d3f-e026-4b5b-806e-ada8047afb45">
 
-<img width="574" alt="image" src="https://github.com/ThakurSaAbhay/Prakriti/assets/92168403/224decbe-54ab-4ed5-af07-e8238976710c">
+<img width="574" alt="image" src="https://github.com/RishabhDimri/Prakriti/assets/92168403/224decbe-54ab-4ed5-af07-e8238976710c">
 
 ## How To Use
 
@@ -63,15 +63,15 @@ As the credits of the users will increase it will open up a level for them such 
 
 ## You may also like...
 
-- [Humidity Temperature Sensor](https://github.com/RishabhDimri/Check-Weather) - An API based weather application.
-- [EdVerse](https://github.com/RishabhDimri/PICO) - Photo editing application.
+- [WeatherApp](https://github.com/RishabhDimri/Check-Weather) - An API based weather application.
+- [Pico](https://github.com/RishabhDimri/PICO) - Photo editing application.
 
 
 
 ---
 
-> Website[Portfolio](https://thakursaabhay.github.io/Portfolio/) &nbsp;&middot;&nbsp;
-> GitHub [@ThakurSaAbhay](https://github.com/ThakurSaAbhay) &nbsp;&middot;&nbsp;
-> Twitter [@ThakurSaAbhay](https://twitter.com/ThakurSaAbhay)
+> Website[Portfolio](https://rishabhdimri.github.io/Portfolio/) &nbsp;&middot;&nbsp;
+> GitHub [@RishabhDimri](https://github.com/RishabhDimri) &nbsp;&middot;&nbsp;
+> Linkedin [@RishabhDimri](https://www.linkedin.com/in/rishabh-dimri-a87570225/)
 
 
