@@ -1,6 +1,8 @@
 
 <h1>
   <br>
+  <img width="572" alt="image" src="(https://github.com/user-attachments/assets/e280fc30-65a4-420d-a89e-c7105a045ec2)">
+  <br>
   Prakriti
   <br>
 </h1>
