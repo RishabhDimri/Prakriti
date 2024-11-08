@@ -29,9 +29,11 @@
 
 ## Project Snapshots
 
-<img width="572" alt="image" src="https://github.com/RishabhDimri/Prakriti/assets/92168403/49403d3f-e026-4b5b-806e-ada8047afb45">
+<img width="572" alt="image" src="![image](https://github.com/user-attachments/assets/fee4f003-e737-4ada-a0e4-794450f6cb3c)
+">
 
-<img width="574" alt="image" src="https://github.com/RishabhDimri/Prakriti/assets/92168403/224decbe-54ab-4ed5-af07-e8238976710c">
+<img width="574" alt="image" src="![image](https://github.com/user-attachments/assets/08161a11-579f-40d9-b6b4-646adf91aa1e)
+">
 
 ## How To Use
 
